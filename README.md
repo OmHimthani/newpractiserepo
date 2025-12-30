@@ -1,1 +1,5 @@
-<h1>My readme file </h1>
+```javascript
+console.log("Om");
+var a=10;
+
+```
